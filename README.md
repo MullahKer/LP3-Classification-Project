@@ -1,11 +1,11 @@
-#Predicting Customer Churn - Classification Project
-###Project Overview
+Predicting Customer Churn - Classification Project
+Project Overview
 
 The objective of this project is to predict customer churn for a telecommunication company using classification models. Churn prediction is an important problem for companies that rely on subscription-based revenue models, as it can help identify customers who are at risk of leaving the service and allow the company to take proactive measures to retain them.
 
 In this project, we will analyze a dataset of customer information and service usage patterns to build a predictive model that can identify customers who are likely to churn.
 
-##Dataset
+Dataset
 The dataset used for this project is provided by the telecommunication company and contains information about customers, their account information, and their usage patterns. It contains the following columns:
 
 customerID: Unique identifier for the customer
@@ -50,7 +50,7 @@ TotalCharges: The total amount charged to the customer
 
 The target variable for this project is the "Churn" column, which indicates if the customer has churned (Yes) or not (No).
 
-##Tools Used
+Tools Used
 The following tools were used in this project:
 
 Python 3.7.10
@@ -60,7 +60,7 @@ Scikit-learn 0.24.2
 Matplotlib 3.4.2
 Seaborn 0.11.1
 
-##Methodology
+Methodology
 The project was divided into the following steps:
 
 Data Preparation: The dataset was loaded and preprocessed, including handling missing values, encoding categorical variables, and scaling numerical variables.
