@@ -1,5 +1,6 @@
 #Predicting Customer Churn - Classification Project
 ###Project Overview
+
 The objective of this project is to predict customer churn for a telecommunication company using classification models. Churn prediction is an important problem for companies that rely on subscription-based revenue models, as it can help identify customers who are at risk of leaving the service and allow the company to take proactive measures to retain them.
 
 In this project, we will analyze a dataset of customer information and service usage patterns to build a predictive model that can identify customers who are likely to churn.
